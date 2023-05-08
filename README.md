@@ -3,7 +3,7 @@
 HTTP :- GET PUT POST DELETE
 https://app.quicktype.io/
 
-ALl you need to start your own work with reqres API exmple 
+Check the website for more info update the body as per the exaples.
 https://reqres.in/
 
 
